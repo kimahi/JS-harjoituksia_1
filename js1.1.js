@@ -1,0 +1,1 @@
+alert("Tämä on JavaScript-ohjelma!");
